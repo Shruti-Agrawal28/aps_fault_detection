@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+artifact
 # C extensions
 *.so
+prediction
+saved_models
 demotest.py
 logs
 artifacts
